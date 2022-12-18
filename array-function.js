@@ -1,14 +1,14 @@
 const users = [
     {
-        name : "Mehmet",
+        name : "Umut",
         age : 10,
     },
     {
-        name : "Berkan",
+        name : "Ocak",
         age : 29,
     },
     {
-        name : "Gorel",
+        name : "Ahmet",
         age : 40,
     }
 ]
